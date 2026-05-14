@@ -12,7 +12,7 @@ Spacebar - press key/toggle touchpad cursor mode
 After putting in your log in credentials, the player is tasked with doing a series of captchas each with a 30-second limit. This is to prove that you are NOT a tiny creature that is just slowly moving around a laptop. 
 
 # Credits
-The game uses the following songs which I take no credit for.
+The game uses the following songs which I take no credit for. All credit goes to the original creators.
 
 The Weather Channel 2006 Storm Alert - Chris Kennedy: https://youtu.be/kml9V0mJEek?si=lDQ_t76UVnPqjs5T
 
