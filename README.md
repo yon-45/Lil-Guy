@@ -5,6 +5,7 @@ The main idea I had for the project is to create a game where you have indirect 
 
 # Controls
 WASD - movement up/left/down/right
+
 Spacebar - press key/toggle touchpad cursor mode
 
 # Instructions
@@ -12,6 +13,7 @@ After putting in your log in credentials, the player is tasked with doing a seri
 
 # Credits
 The game uses the following songs which I take no credit for.
+
 The Weather Channel 2006 Storm Alert - Chris Kennedy: https://youtu.be/kml9V0mJEek?si=lDQ_t76UVnPqjs5T
 
 The Price is Right Theme Song: https://youtu.be/13tnjh3dZw4?si=SMpXvCKY0s_4jXEO
