@@ -1,0 +1,2 @@
+CapLetter = "E"
+SmolLetter = "e"
