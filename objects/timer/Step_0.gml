@@ -1,0 +1,1 @@
+countdown = round(alarm[0]/60)

@@ -1,0 +1,2 @@
+CapLetter = "N"
+SmolLetter = "n"

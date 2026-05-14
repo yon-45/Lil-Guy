@@ -1,0 +1,2 @@
+CapLetter = "KEY"
+SmolLetter = "key"
